@@ -16,4 +16,9 @@ body, input, button, textarea {
 :root{ 
   --yellow: #ffd666;
   --green: #96feff;
+  --gradient: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
+  --blue: #15c3d6;
+  --blue-lighter: #17e6eb;
+  
+  --bg-transition: background-color 0.2s;
 }
